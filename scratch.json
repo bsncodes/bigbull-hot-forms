@@ -1,0 +1,8 @@
+{
+  "submitBtnText": "Submit",
+  "fields": [
+    {
+      "component": "textInput"
+    }
+  ]
+}
